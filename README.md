@@ -4,7 +4,7 @@ Some most common information during designing Machine Learning algorithms. Inclu
 
 ### Optimization
 
-* [[SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/] Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks. 
+* [[SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/)] Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks. 
 
 ### Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
