@@ -52,7 +52,4 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)]
 [[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)]
 
-------------
-### Resources
-* [[Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/)] Detailed information about all algorithms and technics in Machine Learning. 
 
