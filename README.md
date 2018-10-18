@@ -29,6 +29,25 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [[ML System Design](https://github.com/GensaGames/MWiki-Machine-Learning-and-Math/blob/master/resources/ML-Andrew-Ng/ML%20System%20Design.pdf)]</br>
 [[ML System Example](https://github.com/GensaGames/MWiki-Machine-Learning-and-Math/blob/master/resources/ML-Andrew-Ng/Application%20Example.pdf)] 
 
+
+### Math Khan Academy
+
+#### Differential Calculus & Multivariable calculus
+* [[Derivatives: definition and basic rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro)]
+[[Derivatives: chain rule and other advanced topics](https://www.khanacademy.org/math/differential-calculus/dc-chain)]</br>
+[[Thinking about multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function)]
+[[Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)]
+
+#### Statistics & Probability
+* [[Analyzing categorical data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)]
+[[Displaying and comparing quantitative data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)]</br>
+[[Summarizing quantitative data](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data)]
+
+#### Other
+* [[Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)]</br>
+[[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)]
+[[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)]
+
 ------------
 ### Resources
 * [[Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/)] Detailed information about all algorithms and technics in Machine Learning. 
