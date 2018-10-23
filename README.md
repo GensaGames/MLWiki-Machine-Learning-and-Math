@@ -4,7 +4,10 @@ Some most common information during designing Machine Learning algorithms. Inclu
 
 ### Optimization
 
-* [[SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/)] Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks. 
+* [[SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/)] Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks.
+
+* [[Momentum, RMSProp, Adagrad](https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/)] Another good example describing optimization objective. Using simple Python example, authour showed optimization evolving, from one algorithm, to another. 
+
 
 ### Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
@@ -39,6 +42,12 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 
 ### Math Khan Academy
 
+#### Basics
+* [[Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)]</br>
+[[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)]
+[[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)]
+
+
 #### Differential Calculus & Multivariable calculus
 * [[Derivatives: definition and basic rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro)]
 [[Derivatives: chain rule and other advanced topics](https://www.khanacademy.org/math/differential-calculus/dc-chain)]</br>
@@ -50,9 +59,5 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [[Displaying and comparing quantitative data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)]</br>
 [[Summarizing quantitative data](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data)]
 
-#### Other
-* [[Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)]</br>
-[[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)]
-[[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)]
 
 
