@@ -2,6 +2,12 @@
 
 Some most common information during designing Machine Learning algorithms. Including must have Math background for each task. Feel free to add some updates here. Thanks. 
 
+
+### Neural Network
+
+* [Recurrent Neural Networks](https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5) Very simple introducation for the Recurrent Neural Network. This is because it is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for Machine Learning problems that involve sequential data. 
+
+
 ### Optimization
 
 * [SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/) Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks.
