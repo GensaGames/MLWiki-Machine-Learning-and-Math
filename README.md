@@ -5,7 +5,10 @@ Some most common information during designing Machine Learning algorithms. Inclu
 
 ### Neural Network
 
-* [Recurrent Neural Networks](https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5) Very simple introducation for the Recurrent Neural Network. This is because it is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for Machine Learning problems that involve sequential data. 
+* [RNN LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI) Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM). Very simple and friendly walk through how they work and how they are useful.
+
+* [RNN](https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5) Introducation for the Recurrent Neural Network. This is because it is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for Machine Learning problems that involve sequential data. 
+
 
 
 ### Optimization
