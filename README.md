@@ -18,6 +18,14 @@ Some most common information during designing Machine Learning algorithms. Inclu
 * [Momentum, RMSProp, Adagrad](https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/) Another good example describing optimization objective. Using simple Python example, authour showed optimization evolving, from one algorithm, to another. 
 
 
+### Activation
+
+* [SoftMax, Sigmoid, ReLU](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions) Visualized sample of different activation functions and comparing Sigmoid and Softmax.
+
+* [Simoid, ReLU, Tanh](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) The Nonlinear Activation Functions are the most used activation functions. It makes it easy for the model to generalize or adapt with variety of data and to differentiate between the output.
+
+
+
 ### Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
 
