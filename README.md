@@ -3,6 +3,18 @@
 Some most common information during designing Machine Learning algorithms. Including must have Math background for each task. Feel free to add some updates here. Thanks. 
 
 
+### Feature Extraction
+
+
+* [SIFT (Scale-Invariant Feature Transform)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html#sift-intro) So, in 2004, D.Lowe, University of British Columbia, came up with a new algorithm, Scale Invariant Feature Transform (SIFT) in his paper, Distinctive Image Features from Scale-Invariant Keypoints, which extract keypoints and compute its descriptors.
+
+* [ORB (Oriented FAST and Rotated BRIEF)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_orb/py_orb.html#orb) This algorithm was brought up by Ethan Rublee, Vincent Rabaud, Kurt Konolige and Gary R. Bradski in their paper ORB: An efficient alternative to SIFT or SURF in 2011. As the title says, it is a good alternative to SIFT and SURF in computation cost, matching performance and mainly the patents. Yes, SIFT and SURF are patented and you are supposed to pay them for its use. But ORB is not!
+
+* [SURF (Speeded-Up Robust Features)](https://www.youtube.com/watch?v=WCUNPb-5EYI) In 2006, three people, Bay, H., Tuytelaars, T. and Van Gool, L, published another paper, “SURF: Speeded Up Robust Features” which introduced a new algorithm called SURF. As name suggests, it is a speeded-up version of SIFT.
+
+* [BRIEF (Binary Robust Independent Elementary Features)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_brief/py_brief.html#brief) We know SIFT uses 128-dim vector for descriptors. Since it is using floating point numbers, it takes basically 512 bytes. Similarly SURF also takes minimum of 256 bytes (for 64-dim). Creating such a vector for thousands of features takes a lot of memory which are not feasible for resouce-constraint applications especially for embedded systems. Larger the memory, longer the time it takes for matching.
+
+
 ### Neural Network
 
 * [RNN LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI) Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM). Very simple and friendly walk through how they work and how they are useful.
