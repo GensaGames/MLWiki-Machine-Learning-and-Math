@@ -2,6 +2,12 @@
 
 Some most common information during designing Machine Learning algorithms. Including must have Math background for each task. Feel free to add some updates here. Thanks. 
 
+### Data Structures
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Data_Sctructures.png" width="750" height="350" />
+</p>
+</br>
+
 
 ### Feature Extraction
 
