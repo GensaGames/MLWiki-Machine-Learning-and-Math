@@ -4,10 +4,15 @@ Some most common information during designing Machine Learning algorithms. Inclu
 
 ### Data Structures
 <p align="center">
-<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Data_Sctructures.png" width="750" height="350" />
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Data_Sctructures.png" width="850" height="400" />
 </p>
 </br>
 
+### Data Structure Algorithms
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Data_Structures_Algorithms.png" width="850" height="500" />
+</p>
+</br>
 
 ### Feature Extraction
 
