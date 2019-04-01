@@ -80,7 +80,12 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [ML System Example](https://github.com/GensaGames/MWiki-Machine-Learning-and-Math/blob/master/resources/ML-Andrew-Ng/Application%20Example.pdf)
 
 
-### Math Khan Academy
+### Math  & Khan Academy
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Math_for_Data_Science.png" width="850" height="650" />
+</p>
+</br>
 
 #### Basics
 * [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)</br>
