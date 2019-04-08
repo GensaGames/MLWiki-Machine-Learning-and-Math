@@ -14,7 +14,35 @@ Some most common information during designing Machine Learning algorithms. Inclu
 </p>
 </br>
 
-### Feature Extraction
+### 1. General
+
+
+* [CS188 Artificial Intelligence (Scale-Invariant Feature Transform)](https://www.youtube.com/channel/UCshmLD2MsyqAKBx8ctivb5Q/videos) Great Youtube channel with introductino into Reinforcement Learning and AI in general. Instructor: Prof. Dan Klein.
+
+
+### 2. Neural Network
+
+* [RNN LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI) Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM). Very simple and friendly walk through how they work and how they are useful.
+
+* [RNN](https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5) Introducation for the Recurrent Neural Network. This is because it is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for Machine Learning problems that involve sequential data. 
+
+
+
+### 3. Optimization
+
+* [SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/) Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks.
+
+* [Momentum, RMSProp, Adagrad](https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/) Another good example describing optimization objective. Using simple Python example, authour showed optimization evolving, from one algorithm, to another. 
+
+
+### 4. Activation
+
+* [SoftMax, Sigmoid, ReLU](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions) Visualized sample of different activation functions and comparing Sigmoid and Softmax.
+
+* [Simoid, ReLU, Tanh](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) The Nonlinear Activation Functions are the most used activation functions. It makes it easy for the model to generalize or adapt with variety of data and to differentiate between the output.
+
+
+### 5. Feature Extraction
 
 
 * [SIFT (Scale-Invariant Feature Transform)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html#sift-intro) So, in 2004, D.Lowe, University of British Columbia, came up with a new algorithm, Scale Invariant Feature Transform (SIFT) in his paper, Distinctive Image Features from Scale-Invariant Keypoints, which extract keypoints and compute its descriptors.
@@ -26,29 +54,7 @@ Some most common information during designing Machine Learning algorithms. Inclu
 * [BRIEF (Binary Robust Independent Elementary Features)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_brief/py_brief.html#brief) We know SIFT uses 128-dim vector for descriptors. Since it is using floating point numbers, it takes basically 512 bytes. Similarly SURF also takes minimum of 256 bytes (for 64-dim). Creating such a vector for thousands of features takes a lot of memory which are not feasible for resouce-constraint applications especially for embedded systems. Larger the memory, longer the time it takes for matching.
 
 
-### Neural Network
-
-* [RNN LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI) Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM). Very simple and friendly walk through how they work and how they are useful.
-
-* [RNN](https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5) Introducation for the Recurrent Neural Network. This is because it is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for Machine Learning problems that involve sequential data. 
-
-
-
-### Optimization
-
-* [SGD, Momentum, RMSProp](http://cs231n.github.io/neural-networks-3/) Nice general description for primary optimization objective in SGD, with Momentum, Nesterom, RMSProp and other. Also includes basic information during work with Neural Networks.
-
-* [Momentum, RMSProp, Adagrad](https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/) Another good example describing optimization objective. Using simple Python example, authour showed optimization evolving, from one algorithm, to another. 
-
-
-### Activation
-
-* [SoftMax, Sigmoid, ReLU](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions) Visualized sample of different activation functions and comparing Sigmoid and Softmax.
-
-* [Simoid, ReLU, Tanh](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) The Nonlinear Activation Functions are the most used activation functions. It makes it easy for the model to generalize or adapt with variety of data and to differentiate between the output.
-
-
-
+-----------------------------
 ### Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
 
@@ -80,6 +86,7 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [ML System Example](https://github.com/GensaGames/MWiki-Machine-Learning-and-Math/blob/master/resources/ML-Andrew-Ng/Application%20Example.pdf)
 
 
+-----------------------------
 ### Math  & Khan Academy
 
 <p align="center">
