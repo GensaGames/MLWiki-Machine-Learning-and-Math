@@ -17,7 +17,7 @@ Some most common information during designing Machine Learning algorithms. Inclu
 ### 1. General
 
 
-* [CS188 Artificial Intelligence (Scale-Invariant Feature Transform)](https://www.youtube.com/channel/UCshmLD2MsyqAKBx8ctivb5Q/videos) Great Youtube channel with introductino into Reinforcement Learning and AI in general. Instructor: Prof. Dan Klein.
+* [CS188 Artificial Intelligence (Reinforcement Learning and AI)](https://www.youtube.com/channel/UCshmLD2MsyqAKBx8ctivb5Q/videos) Great Youtube channel with introductino into Reinforcement Learning and AI in general. Instructor: Prof. Dan Klein.
 
 
 ### 2. Neural Network
