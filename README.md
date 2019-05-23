@@ -54,6 +54,13 @@ Some most common information during designing Machine Learning algorithms. Inclu
 * [BRIEF (Binary Robust Independent Elementary Features)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_brief/py_brief.html#brief) We know SIFT uses 128-dim vector for descriptors. Since it is using floating point numbers, it takes basically 512 bytes. Similarly SURF also takes minimum of 256 bytes (for 64-dim). Creating such a vector for thousands of features takes a lot of memory which are not feasible for resouce-constraint applications especially for embedded systems. Larger the memory, longer the time it takes for matching.
 
 
+
+### 6. Reinforcement Learning
+
+
+* [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#key-concepts) We will first introduce several fundamental concepts and then dive into classic approaches to solving RL problems. Hopefully, this post could be a good starting point for newbies, bridging the future study on the cutting-edge research.
+
+
 -----------------------------
 ### Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
