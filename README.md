@@ -50,7 +50,7 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 ### Math  & Khan Academy
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Math_for_Data_Science.png" width="850" height="650" />
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Math_for_Data_Science.png" width="850" height="550" />
 </p>
 </br>
 
