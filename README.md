@@ -121,3 +121,8 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#key-concepts) We will first introduce several fundamental concepts and then dive into classic approaches to solving RL problems. Hopefully, this post could be a good starting point for newbies, bridging the future study on the cutting-edge research.
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Reinforcement_Learning.png" width="850" height="400" />
+</p>
+</br>
