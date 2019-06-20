@@ -3,7 +3,8 @@
 Some most common information during designing Machine Learning algorithms. Including must have Math background for each task. Feel free to add some updates here. Thanks. 
 
 
------------------------------
+
+
 ## Basics
 ### Data Structures
 <p align="center">
@@ -17,7 +18,9 @@ Some most common information during designing Machine Learning algorithms. Inclu
 </p>
 </br>
 
------------------------------
+
+
+
 ## Coursera Andrew Ng
 All lecture slides, from source Cource of Andrew Ng. For more information, please check [Stanford Machine Learning Andrew Ng](http://www.holehouse.org/mlclass/), where described this Course in text format with detailed information.
 
@@ -49,7 +52,10 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 [ML System Example](https://github.com/GensaGames/MWiki-Machine-Learning-and-Math/blob/master/resources/ML-Andrew-Ng/Application%20Example.pdf)
 
 
------------------------------
+
+
+
+
 ## Math  & Khan Academy
 
 <p align="center">
@@ -77,7 +83,7 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 
 
 
------------------------------
+
 ## Other Resources
 
 ### 1. General
