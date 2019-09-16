@@ -55,36 +55,7 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 
 
 
-
-## Math  & Khan Academy
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Math_for_Data_Science.png" width="850" height="550" />
-</p>
-</br>
-
-#### Basics
-* [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)</br>
-[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)
-[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)
-
-
-#### Differential Calculus & Multivariable calculus
-* [Derivatives: definition and basic rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro)
-[Derivatives: chain rule and other advanced topics](https://www.khanacademy.org/math/differential-calculus/dc-chain)</br>
-[Thinking about multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function)
-[Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
-
-#### Statistics & Probability
-* [Analyzing categorical data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
-[Displaying and comparing quantitative data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)</br>
-[Summarizing quantitative data](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data)
-
-
-
-
-
-## Other Resources
+## Resources
 
 ### 1. General
 
@@ -137,3 +108,36 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 <img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Reinforcement_Learning.png" width="850" height="400" />
 </p>
 </br>
+
+
+
+
+
+
+
+## Math  & Khan Academy
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Math_for_Data_Science.png" width="850" height="550" />
+</p>
+</br>
+
+#### Basics
+* [Probability and combinatorics](https://www.khanacademy.org/math/precalculus/prob-comb)</br>
+[Vectors](https://www.khanacademy.org/math/precalculus/vectors-precalc)
+[Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)
+
+
+#### Differential Calculus & Multivariable calculus
+* [Derivatives: definition and basic rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro)
+[Derivatives: chain rule and other advanced topics](https://www.khanacademy.org/math/differential-calculus/dc-chain)</br>
+[Thinking about multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function)
+[Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+
+#### Statistics & Probability
+* [Analyzing categorical data](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
+[Displaying and comparing quantitative data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)</br>
+[Summarizing quantitative data](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data)
+
+
+
