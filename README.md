@@ -57,6 +57,11 @@ All lecture slides, from source Cource of Andrew Ng. For more information, pleas
 
 ## Resources
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/GensaGames/MLWiki-Machine-Learning-and-Math/master/images/Machine_Learning.png" width="850" height="400" />
+</p>
+</br>
+
 ### 1. General
 
 
